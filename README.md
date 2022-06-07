@@ -1,1 +1,1 @@
-# TextAnalysis_Wk8.1
+# Text Analysis project -> Sentiment Analysis, Polarity
